@@ -1,6 +1,886 @@
 {
-  "last_updated": "2024-03-10T16:28:53+00:00",
+  "last_updated": "2024-03-12T17:56:33+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#377",
+      "time": "2024-03-12T17:56:33+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/377",
+      "text": "No Hyperlink support for comments "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T17:56:24+00:00",
+      "title": "coronasafe/leaderboard#380",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#pullrequestreview-1931883306",
+      "text": "Added hyperlink for comments, and changed from using Link to anchor tag"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#383",
+      "time": "2024-03-12T17:46:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/383",
+      "text": "Cache computed values to reduce build times"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#382",
+      "time": "2024-03-12T17:19:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/382#issuecomment-1992172209",
+      "text": "Takes around 1m 17s on my local\r\n\r\n<img width=\"1822\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/1d76a700-fde4-4da5-85fd-40f3a26e6d1f\">\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#382",
+      "time": "2024-03-12T17:15:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/382",
+      "text": "Slow builds (during pre-rendering 400+ contributors)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#346",
+      "time": "2024-03-12T16:57:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/346",
+      "text": "Migrate `GitHubEvents` component to use `octokit` instead of using fetch to interact with GitHub APIs"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#365",
+      "time": "2024-03-12T16:57:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents",
+      "collaborated_with": [
+        "Ashutosh0602"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:57:12+00:00",
+      "title": "coronasafe/leaderboard#365",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365#pullrequestreview-1931671631",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T16:36:48+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1992089946",
+      "text": "@UdaySagar-Git why are we changing those?\r\n\r\nWe should ideally be showing `<OpenGraphImage />` for those instead like how we have in feed.\r\nWas it not the case already?\r\n\r\n<img width=\"1059\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/33daf85f-f497-43c2-a33e-c7a6154a3614\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:30:23+00:00",
+      "title": "coronasafe/leaderboard#365",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365#pullrequestreview-1931580108",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#370",
+      "time": "2024-03-12T16:28:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/370",
+      "text": "Version name is not displayed in /releases page and in recent releases section in home page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#358",
+      "time": "2024-03-12T16:28:39+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/358",
+      "text": "Enhance Release Event Card for Mobile View"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-12T16:28:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368",
+      "text": "Enhance Release Event Card for Mobile View closes #358",
+      "collaborated_with": [
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:28:21+00:00",
+      "title": "coronasafe/leaderboard#368",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#pullrequestreview-1931569100",
+      "text": "Enhance Release Event Card for Mobile View closes #358"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:28:21+00:00",
+      "title": "coronasafe/leaderboard#368",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#pullrequestreview-1931569100",
+      "text": "Enhance Release Event Card for Mobile View closes #358"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#361",
+      "time": "2024-03-12T16:23:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/361",
+      "text": "Broken responsiveness for Active Projects page in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#285",
+      "time": "2024-03-12T16:21:58+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#issuecomment-1992059085",
+      "text": "Closing this PR as inactive"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-03-12T16:21:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#issuecomment-1992057139",
+      "text": "https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-03-12T16:20:48+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#issuecomment-1992055822",
+      "text": "Also, \r\n\r\n1. Clear the merge conflicts\r\n2. It'd be great if you could link the issue in the PR comment using closing tags.\r\n3. Give a meaningful title to the PR that conveys what this PR does. So that it's easily readable when we look at the changelogs in the main branch."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:19:18+00:00",
+      "title": "coronasafe/leaderboard#379",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#pullrequestreview-1931546091",
+      "text": "Fixed issue #378"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:19:18+00:00",
+      "title": "coronasafe/leaderboard#379",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#pullrequestreview-1931546091",
+      "text": "Fixed issue #378"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#360",
+      "time": "2024-03-12T16:15:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/360",
+      "text": "Sidebar misaligned and unable to close the sidebar in mobile view when in Projects page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:14:45+00:00",
+      "title": "coronasafe/leaderboard#381",
+      "link": "https://github.com/coronasafe/leaderboard/pull/381#pullrequestreview-1931540259",
+      "text": "fix : Sidebar misaligned and unable to close the sidebar in mobile view when in Projects page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:13:29+00:00",
+      "title": "coronasafe/care_fe#7364",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#pullrequestreview-1931537281",
+      "text": "Fix stretching issue in comment section on shifting detail page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:13:29+00:00",
+      "title": "coronasafe/care_fe#7364",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#pullrequestreview-1931537281",
+      "text": "Fix stretching issue in comment section on shifting detail page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:12:38+00:00",
+      "title": "coronasafe/care_fe#7399",
+      "link": "https://github.com/coronasafe/care_fe/pull/7399#pullrequestreview-1931528903",
+      "text": "refrained ui of bed management page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:12:38+00:00",
+      "title": "coronasafe/care_fe#7399",
+      "link": "https://github.com/coronasafe/care_fe/pull/7399#pullrequestreview-1931528903",
+      "text": "refrained ui of bed management page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T16:07:55+00:00",
+      "title": "coronasafe/care_fe#7364",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#pullrequestreview-1931523774",
+      "text": "Fix stretching issue in comment section on shifting detail page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-12T16:04:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1992014176",
+      "text": "Alright. ReadMore component is fine.\r\n\r\nBut `any` type is not allowed when we already have types for it.\r\n\r\nIf you look carefully, proper types are already present for created_by_object in the same file too. You just have to re-use it.\r\n\r\n<img width=\"708\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/899f0530-e0c3-4caa-a707-da3703ddcc56\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-12T15:46:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1991972915",
+      "text": "Hey, not sure if you've missed it, but I've requested changes in your PR two days ago"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T14:31:36+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1931246395",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T14:31:36+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1931246395",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T12:08:42+00:00",
+      "title": "coronasafe/care_fe#7348",
+      "link": "https://github.com/coronasafe/care_fe/pull/7348#pullrequestreview-1930875401",
+      "text": "Log update vital feature remodified "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:57:06+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1991484606",
+      "text": "Yea, but for pull requests open/merge, or issue open/close, review approvals without comments, we should be using the OpenGraphImage. Rest of the comment events can be done like as you've mentioned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:54:39+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1930843903",
+      "text": "Adds bulk import support for assets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:54:39+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1930843903",
+      "text": "Adds bulk import support for assets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:51:28+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1991475029",
+      "text": "Yup, maybe we can add a bit more padding in desktop view and reduce the font size a bit."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:28:33+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1930794969",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:28:33+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1930794969",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:27:12+00:00",
+      "title": "coronasafe/leaderboard#380",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#pullrequestreview-1930792622",
+      "text": "Added hyperlink for comments, and changed from using Link to anchor tag"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-12T10:48:52+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1991349683",
+      "text": "The title and description need not be part of the image. Those can be part of the page's title and description instead. Refer: https://nextjs.org/docs/app/api-reference/functions/generate-metadata\r\n\r\n\r\nThe image element could contain the contributors' image from GitHub and a highlight of contributions as we have on their profile page... It could be shown differently and need not be exactly how the screenshot below is.\r\n\r\n<img width=\"953\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/ecb6b555-c3c0-4514-a2df-d384f7521207\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T10:41:44+00:00",
+      "title": "coronasafe/care_fe#7353",
+      "link": "https://github.com/coronasafe/care_fe/pull/7353#pullrequestreview-1930692268",
+      "text": "Improve District filter in User Management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1966",
+      "time": "2024-03-12T09:51:20+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "text": "Dropped `age` column from patient registration and moved it to serializer field to calc. age based on demand"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7393",
+      "time": "2024-03-12T07:36:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7393#issuecomment-1990955013",
+      "text": "Are you sure you've connected your local FE to your local backend?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T07:29:45+00:00",
+      "title": "coronasafe/care_fe#7303",
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#pullrequestreview-1930284593",
+      "text": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-12T06:17:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1990796140",
+      "text": "Yup, you need to create a custom migration to migrate existing data and raise a PR in that repository."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T06:08:00+00:00",
+      "title": "coronasafe/leaderboard#365",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365#pullrequestreview-1930176744",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T06:08:00+00:00",
+      "title": "coronasafe/leaderboard#365",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365#pullrequestreview-1930176744",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7332",
+      "time": "2024-03-12T06:01:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#issuecomment-1990722419",
+      "text": "Hey, you can connect your FE to your local backend and run the cypress tests by following the documentation here...\r\n\r\nhttps://github.com/coronasafe/care_fe?tab=readme-ov-file#-run-cypress-tests\r\n\r\nOnce you've identified which tests are failing, you can update the corresponding cypress tests. The test code would be present in the same file name as the cypress test spec name."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7394",
+      "time": "2024-03-12T05:59:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7394",
+      "text": "Update README to specify to use local backend for cypress tests"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-12T05:55:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1990695581",
+      "text": "@leftover19 needs changes to be made in the backend for:\r\n\r\n> the existing entries needs to be adjusted against scale of 0-10. So previously entered \"2\" will become 4."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T05:54:02+00:00",
+      "title": "coronasafe/care_fe#7393",
+      "link": "https://github.com/coronasafe/care_fe/pull/7393#pullrequestreview-1930160588",
+      "text": "Fixed issue  Pain Scale (0-10) #7378"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T05:22:09+00:00",
+      "title": "coronasafe/care_fe#7392",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392#pullrequestreview-1930125851",
+      "text": "Fix file upload UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T05:03:34+00:00",
+      "title": "coronasafe/leaderboard#375",
+      "link": "https://github.com/coronasafe/leaderboard/pull/375#pullrequestreview-1930105774",
+      "text": "fixed Broken responsiveness for Active Projects page in mobile view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T04:36:46+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1930079844",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T04:36:46+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1930079844",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-12T04:34:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1990316653",
+      "text": "Yup, you can load the dummy data on to a fresh volume, add the required users and dump it again as json"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T18:44:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1989192855",
+      "text": "It is okay to hide org name in both views. But I don't think it is okay to hide the repository name. An organization may have multiple products/repositories each having its releases. One would not be able to distinguish which version belongs to which repository by looking at this from mobile right?\r\n\r\nThis would've been fine only if the releases page was specific to a repository."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T18:40:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1989186011",
+      "text": "I think, just specifying \"Latest\" would be better than trying to use an icon. A user may not recognize that this is the latest by looking at the star."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T18:39:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1989183117",
+      "text": "This looks nice, but are we not showing the repository name? \ud83d\udc40 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T18:07:36+00:00",
+      "title": "coronasafe/care_fe#7390",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390#pullrequestreview-1928682163",
+      "text": "Solved File Management Exceptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T18:07:35+00:00",
+      "title": "coronasafe/care_fe#7390",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390#pullrequestreview-1928682163",
+      "text": "Solved File Management Exceptions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#352",
+      "time": "2024-03-11T17:46:20+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/352",
+      "text": "Configurable `favicon.ico` and `logo.webp`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T17:45:55+00:00",
+      "title": "coronasafe/leaderboard#372",
+      "link": "https://github.com/coronasafe/leaderboard/pull/372#pullrequestreview-1928595987",
+      "text": "fix:Configurable favicon.ico and logo.webp  #352"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T17:45:04+00:00",
+      "title": "coronasafe/leaderboard-data#31",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/31#pullrequestreview-1928594275",
+      "text": "added favicon and logo"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1962",
+      "time": "2024-03-11T17:33:29+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1962",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "DraKen0009",
+        "SinghYuvraj0506",
+        "sainak",
+        "dhruv-goyal-10",
+        "gigincg",
+        "konavivekramakrishna",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7387",
+      "time": "2024-03-11T17:32:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7387",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "Ashesh3",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7386",
+      "time": "2024-03-11T17:30:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7386",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T17:24:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1989017369",
+      "text": "Read about open graph meta tags...\r\nhttps://ahrefs.com/blog/open-graph-meta-tags/\r\n\r\n\r\n\r\n<img width=\"699\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/b01907a6-cb2e-49c6-a23f-1b0c20b9306a\">\r\n\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7385",
+      "time": "2024-03-11T17:22:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7385",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1961",
+      "time": "2024-03-11T17:19:41+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1961",
+      "text": "Generated discharge summary file names ending with `.pdf.pdf`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-11T17:07:43+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-1988979355",
+      "text": "Yup"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T17:02:57+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-1988966874",
+      "text": "FacilityQSPermissions also has a case for state lab admin and greater user:\r\n\r\n<img width=\"1064\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/25143503/a26e094b-cc00-4cda-8d9a-f5eecdf126a4\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-11T17:01:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-1988961184",
+      "text": "IMO the current staging itself seems to be a better layout than the one in this PR."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7370",
+      "time": "2024-03-11T16:51:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7370",
+      "text": "Improve contributing guidelines in README",
+      "turnaround_time": 7396
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T16:48:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1988934322",
+      "text": "No changes in the site UI required"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7254",
+      "time": "2024-03-11T16:43:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#issuecomment-1988921052",
+      "text": "@parthksingh1 here is the expected design as mentioned in the issue:\r\n\r\n<img width=\"944\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/d58c3d31-428a-4e90-a71d-44dfb4d044d7\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7254",
+      "time": "2024-03-11T16:41:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#issuecomment-1988908045",
+      "text": "This still does not look any close to the location management page and looks almost like how it is in staging"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T16:40:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-1988900063",
+      "text": "Also, need tests"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T16:39:58+00:00",
+      "title": "coronasafe/care#1959",
+      "link": "https://github.com/coronasafe/care/pull/1959#pullrequestreview-1928384694",
+      "text": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T16:10:53+00:00",
+      "title": "coronasafe/leaderboard#376",
+      "link": "https://github.com/coronasafe/leaderboard/pull/376#pullrequestreview-1928274785",
+      "text": "fix github og images where repo starts with a period"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T15:56:09+00:00",
+      "title": "coronasafe/leaderboard#376",
+      "link": "https://github.com/coronasafe/leaderboard/pull/376#pullrequestreview-1928237376",
+      "text": "fix github og images where repo starts with a period"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7358",
+      "time": "2024-03-11T14:10:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#issuecomment-1988536021",
+      "text": "TODO: show notification/info about why user is required to select a facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T13:59:13+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1988511494",
+      "text": "Refer nextjs docs\r\n\r\nhttps://nextjs.org/docs/app/api-reference/file-conventions/metadata/opengraph-image\r\nhttps://nextjs.org/docs/app/api-reference/functions/generate-metadata"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7383",
+      "time": "2024-03-11T13:47:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7383#issuecomment-1988485284",
+      "text": "@Ashesh3 from production... That's why hid most of the irrelevant details. @nihal467 has tested in staging, but unable to reproduce."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7383",
+      "time": "2024-03-11T13:42:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7383",
+      "text": "Incorrect representation of Age in Patient Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T12:56:08+00:00",
+      "title": "coronasafe/leaderboard#372",
+      "link": "https://github.com/coronasafe/leaderboard/pull/372#pullrequestreview-1927752407",
+      "text": "fix:Configurable favicon.ico and logo.webp  #352"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#373",
+      "time": "2024-03-11T12:39:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/373",
+      "text": "Support for tracking commits pushed directly to branch"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#218",
+      "time": "2024-03-11T12:39:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/218",
+      "text": "Support for tracking commits pushed directly to branch"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-11T12:17:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382",
+      "text": "Inline view of options missing for `AutocompleteMultiSelectFormField`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7381",
+      "time": "2024-03-11T11:49:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "text": "Migrate ICD11 and Medibase Medicine search to use `useQuery`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7276",
+      "time": "2024-03-11T11:26:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#issuecomment-1988221413",
+      "text": "@konavivekramakrishna any updates on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T11:24:14+00:00",
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1927574501",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T10:47:21+00:00",
+      "title": "coronasafe/care_fe#7136",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#pullrequestreview-1927503760",
+      "text": "Extend Update Log to bottom of the screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T10:14:01+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1927434582",
+      "text": "Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-11T10:13:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327",
+      "text": "Show organization \"weeks from start\" in home page"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#371",
+      "time": "2024-03-11T10:13:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371",
+      "text": "Add Organization Start Date Display and Tooltip with Total Weeks on Home Page",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T10:06:27+00:00",
+      "title": "coronasafe/leaderboard#371",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371#pullrequestreview-1927418199",
+      "text": "Add Organization Start Date Display and Tooltip with Total Weeks on Home Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7366",
+      "time": "2024-03-11T10:04:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366#issuecomment-1988035346",
+      "text": "@nihal467 would be testing it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#353",
+      "time": "2024-03-11T09:35:29+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#issuecomment-1987981077",
+      "text": "Also error in deployment...\r\n<img width=\"1361\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/defdb0fe-49f8-4bf5-9ece-73af16572ad7\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:34:33+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1927344810",
+      "text": "Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:34:33+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1927344810",
+      "text": "Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-11T09:31:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1987973211",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#298",
+      "time": "2024-03-11T09:29:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/298",
+      "text": "UI improvements to Contributor Badge Popup"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#340",
+      "time": "2024-03-11T09:29:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/340",
+      "text": "fix: UI improvements to Contributor Badge Popup",
+      "collaborated_with": [
+        "Ayush398"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#345",
+      "time": "2024-03-11T09:27:45+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/345",
+      "text": "Migrate `ActiveProjects` component to use `octokit` instead of using fetch to interact with GitHub APIs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:27:05+00:00",
+      "title": "coronasafe/leaderboard#355",
+      "link": "https://github.com/coronasafe/leaderboard/pull/355#pullrequestreview-1927328882",
+      "text": "refactor: migrated projects/ActiveProject.tsx to use octokit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-11T09:16:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1987944127",
+      "text": "Hey, you can open up a facility and in Manage Facility, you can open up Location Management.\r\n\r\nIn each of those locations, there'd be an option to click \"Manage Beds\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#295",
+      "time": "2024-03-11T09:15:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/295",
+      "text": "Show rank of contributor inside the contributor profile page"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-11T09:15:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "text": "Add rank of contributor on the weeklybasis in profile page",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:14:45+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1927292994",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-11T09:12:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1987935728",
+      "text": "@aparnacoronasafe should we also be updating the existing data to scale accordingly?\r\n\r\nFor example, if old data is 5, should it be updated to 10?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:10:09+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1927276919",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T09:10:09+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1927276919",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T08:49:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1987896127",
+      "text": "Also, can we mark the latest release of a particular repo with the \"latest\" tag/chip?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T08:49:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1987895453",
+      "text": "<img width=\"218\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/e7713998-9c9e-46e7-9604-7a5311b8694a\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-11T08:48:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368#issuecomment-1987894140",
+      "text": "Yup Nice! can we also add a tag icon before the version?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": "2024-03-11T08:45:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1987889720",
+      "text": "@Thanush19\r\n1. https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1987882533\r\n2. It'd be great if you could look out for issues that are unassigned OR issues that are assigned but has \"stale\" label on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7372",
+      "time": "2024-03-11T08:40:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1987882533",
+      "text": "@Thanush19\r\n\r\nHey, we see that you have two issues already assigned to you, 1 with no PR and 1 pending changes. Kindly follow up on those before requesting for new issues to be assigned"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-10T16:28:53+00:00",
