@@ -1,6 +1,154 @@
 {
-  "last_updated": "2024-03-08T08:18:43+00:00",
+  "last_updated": "2024-03-26T17:18:04+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#3924",
+      "time": "2024-03-25T16:30:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3924#issuecomment-2018415119",
+      "text": "Hey @nihal467, can I get this issue assigned? I discussed about it in the EOD call.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7328",
+      "time": "2024-03-23T13:28:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#issuecomment-2016495429",
+      "text": "Hey @rithviknishad, I have written the test for this filter in the backend PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1938",
+      "time": "2024-03-23T08:31:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1938#issuecomment-2016411352",
+      "text": "In the test, I am checking inside a loop whether every patient, in the response returned, satisfies the condition for a missed review"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1938",
+      "time": "2024-03-23T08:29:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1938#issuecomment-2016410885",
+      "text": "Hey @sainak, I have added test for the review missed filter, could you please review them?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7441",
+      "time": "2024-03-20T08:30:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7441",
+      "text": "Staging release for v24.13.0",
+      "collaborated_with": [
+        "Spiral-Memory",
+        "manasvi-gaur",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "khavinshankar",
+        "AshrafMd-1",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T11:33:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result",
+      "turnaround_time": 29996
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T11:33:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T15:19:46+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943404165",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T14:20:46+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943228679",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T13:37:30+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943021056",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-18T13:19:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2003886470",
+      "text": "Ok, any other user types for which I have to do the same. And is there any way, by which i can see all the user types available?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-18T12:54:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2003833688",
+      "text": "> What about StateLabAdmin?\r\n\r\nAre you saying that like user_type: StateAdmin, there is also some user_type: StateLabAdmin?\r\nAnd if that exists, then I have to add the functionality for the same as well. Right?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:50:27+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942870597",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:50:07+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942869913",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-17T14:54:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2002498560",
+      "text": "Hey @rithviknishad, friendly reminder.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1938",
+      "time": "2024-03-13T05:40:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1938#issuecomment-1993609085",
+      "text": "@sainak Could you please guide me a little on how to write tests for the changes I have made?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-08T08:18:43+00:00",

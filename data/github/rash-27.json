@@ -1,6 +1,287 @@
 {
-  "last_updated": "2024-03-12T16:28:38+00:00",
+  "last_updated": "2024-03-31T21:53:45+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#413",
+      "time": "2024-03-31T21:53:45+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/413#issuecomment-2028915745",
+      "text": "I would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-31T18:46:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2028867058",
+      "text": "- Before\r\n![Screenshot from 2024-03-31 23-46-15](https://github.com/coronasafe/leaderboard/assets/146672184/c84650fc-e438-4e84-b3d7-85ea9746f949)\r\n- After\r\n![Screenshot from 2024-04-01 00-03-31](https://github.com/coronasafe/leaderboard/assets/146672184/709d41d7-2c81-4e15-9376-444c2532b73f)\r\n[Screencast from 01-04-24 12:01:41 AM IST.webm](https://github.com/coronasafe/leaderboard/assets/146672184/367518b7-96c2-4879-bedd-247436255864)\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-31T09:03:30+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2028608629",
+      "text": "Yeah got it ,I will update it , thank you "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-31T07:51:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2028590627",
+      "text": "@bodhish, I didn't understand what you mean by showing an animation when the network search starts. Do we need to show a search animation during the delay due to debouncing?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#219",
+      "time": "2024-03-29T21:37:53+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/219#issuecomment-2027759666",
+      "text": "@Samuel-Aktar-Laskar I too started working on this , but no problem."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-29T09:21:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link",
+      "turnaround_time": 73335
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-29T09:21:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#219",
+      "time": "2024-03-28T18:37:50+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/219#issuecomment-2025872261",
+      "text": "If no one is working on this , I would like to work on this Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-28T14:49:14+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407#issuecomment-2025412658",
+      "text": "I removed p tag around body because body is a html  element and also when it is ul it is throwing this error in console \r\n![Screenshot from 2024-03-28 20-04-22](https://github.com/coronasafe/leaderboard/assets/146672184/07817af6-a9bd-43e6-b909-5f879dec6061)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-28T14:44:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#406",
+      "time": "2024-03-28T12:43:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/406#issuecomment-2025099537",
+      "text": "I would like to work on this issue  "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7485",
+      "time": "2024-03-28T05:10:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7485",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "hrit2773",
+        "Omkar76",
+        "Pranshu1902",
+        "khavinshankar",
+        "soumya-maheshwari",
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User",
+      "turnaround_time": 39350
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:59:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020507176",
+      "text": "Okay "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-24T16:29:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935",
+      "text": "Replace age field with DOB in users model",
+      "turnaround_time": 61326
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-24T16:29:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935",
+      "text": "Replace age field with DOB in users model",
+      "collaborated_with": [
+        "sainak",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-24T13:56:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-2016817852",
+      "text": "@vigneshhari I have modified the tests and they are passing  \r\n![image](https://github.com/coronasafe/care/assets/146672184/7416c2f6-2d61-4431-abde-52b83ca6aa9e)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-23T22:27:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2016619021",
+      "text": "- @rithviknishad  I have deleted that cypress test and modified other two to verify the test , and they are passing with the local backend \r\n![Screenshot from 2024-03-24 03-51-35](https://github.com/coronasafe/care_fe/assets/146672184/cd019762-4668-471f-b92c-ec4112fbc087)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-23T08:03:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2016404019",
+      "text": "The grammar in the message and the name of the selector should be decided (I need your suggestions for that as they require lts and should be meaningful right ?), and regarding the tests I tagged nihal in one comment ,I got a doubt that how to replace that age test by modifying other 2 Cypress tests (I did not get any specific idea on how to do it because other tests as of now are used to check for other factors like consultation, etc, if I am not wrong) and as of now they are passing with the local backend."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-22T13:14:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2015078160",
+      "text": "- After changing the age format in dashboard\r\n![image](https://github.com/coronasafe/care_fe/assets/146672184/6b6697a7-028a-4092-befe-b33c979ca988)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7453",
+      "time": "2024-03-21T21:49:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7453",
+      "text": "Update age format in patientInfoCard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7451",
+      "time": "2024-03-21T21:03:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7451#issuecomment-2013731991",
+      "text": "I would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-20T23:46:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2010919119",
+      "text": "\r\n![Screenshot from 2024-03-21 05-10-30](https://github.com/coronasafe/care_fe/assets/146672184/3fa273d0-4986-4e8b-bb59-e33db249a569)\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T23:44:41+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1950454032",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1993",
+      "time": "2024-03-20T08:29:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1993",
+      "text": "Staging release for v24.13.0",
+      "collaborated_with": [
+        "aeswibon",
+        "Ashesh3",
+        "krassowska",
+        "sainak",
+        "vigneshhari",
+        "AshrafMd-1",
+        "rithviknishad",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T03:57:14+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1947905876",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-20T03:50:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2008621977",
+      "text": "- [x] the age is not being saved, even after modifying the patient details page\r\n- [x]  When we create a patient with age, and open the update detail page of the patient, you will be seeing DOB as by default selected option \r\n- [x]  After switching to age, when you try to type \"24\", the element goes out of once you type 2 \r\n- [x]  the DOB should be in a single line on the responsive view \r\n- [ ] delete this entire test and modify exist any two cypress test to verify this\r\n- [ ] the rename \"age-input-type-selector\" to \"age-selector\" or something short\r\n- [ ] Correct the grammar in the pop-up content, rephrase it as we are talking about the patient here, so we cant use \"you\"\r\n- [ ]  We are not able to reduce and increase the value using the icon"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-18T09:44:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-2003357480",
+      "text": "@vigneshhari here in the database we store only the age previously in Users model, \n1. Choosing a random value of date of birth is  to save the age of the user as we eliminate the age field after migration \n2. choosing only jan 1 as random dob is because , we can accurately calculate the age if needed , if we choose another date , our age calculated will get inconsistent if the actual date of birth is before the chosen date of birth\nPlease correct me , if I am wrong "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1928",
+      "time": "2024-03-17T05:43:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "text": "Add validation checks in ResourceRequestSerializer",
+      "turnaround_time": 29201
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1928",
+      "time": "2024-03-17T05:43:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "text": "Add validation checks in ResourceRequestSerializer",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-14T06:42:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411",
+      "text": "Add Age field in patient registration"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#368",
@@ -524,6 +805,37 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7411",
+      "title": "Add Age field in patient registration",
+      "stale_for": 4,
+      "labels": [
+        "Backend",
+        "tested",
+        "P1",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/374",
+      "title": " Adds support for searching in /people page and show short info about user",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1929",
+      "title": "Add age validation in PatientDetailSerializer",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
+    }
+  ]
 }

@@ -1,6 +1,263 @@
 {
-  "last_updated": "2024-03-12T13:14:08+00:00",
+  "last_updated": "2024-03-28T17:26:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7158",
+      "time": "2024-03-28T17:26:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7158#issuecomment-2025748562",
+      "text": "@nihal467 Can you comment on the relevance of this\n\ncc: @kabirrajsingh "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#24",
+      "time": "2024-03-28T17:25:44+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/24#issuecomment-2025745597",
+      "text": "@aryanraj2713 The issue is regarding adding github actions to automatically add issues filed here to the Project Board.\n\nWould you like to take this up?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-25T15:44:18+00:00",
+      "title": "coronasafe/care#2013",
+      "link": "https://github.com/coronasafe/care/pull/2013#pullrequestreview-1958112022",
+      "text": "Adds support for validating integrity of fixtures in tests workflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#64",
+      "time": "2024-03-25T14:33:44+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/64#issuecomment-2018144973",
+      "text": "Solved with\r\n\r\nhttps://github.com/coronasafe/teleicu_middleware/pull/115"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-22T12:10:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2014946859",
+      "text": "Selecting Images or Taking snapshots\n\n@itxsoumya @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-21T03:33:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2011157738",
+      "text": "> @gigincg I want to take this up can you assign this to me \n\n@hrit2773 I've assigned the issue to you. Please share an ETA on this, as an acknowledgement and create a Draft PR as soon as you start working on it. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1977",
+      "time": "2024-03-21T03:31:12+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1977#issuecomment-2011156209",
+      "text": "> Hello @nihal467 ,\n> \n> \n> \n> I am Rajesh Kumar Singh an undergraduate engineering student, with strong passion in full-stack development. I have read the problem statement and I am really interested to contribute to this project.\n> \n> \n> \n> I have read the project features to be implemented and I think my skills be really helpful for the project, as it's requirements align with my past experience, I have worked with developing chat bots before, I have developed a chat bot my self in a hackathon hosted my Morgan Stanley, I built it in a react native application. Additionally I have built telegram bots using Aiogram in python. I think my skills will be really helpful for the project.\n> \n> \n> \n> **Overview**:\n> \n> The project involves building a wrapper for the CARE platform to facilitate interaction via instant messaging (IM) bots, with a focus on improving user experience. Additionally, a WhatsApp bot will be developed to serve both patients and hospital staff, providing functionalities such as fetching patient records, medications, procedures, schedules, asset status, and inventory data.\n> \n> \n> \n> Roadmap:\n> \n> 1) Wrapper Development: Create IM wrapper API for CARE platform.\n> \n> 2) WhatsApp Bot Development: Build bot for patient and staff interaction with help of **TWILIO**.\n> \n> 3) Privacy Measures: Implement data protection measures.\n> \n> 4) Testing and Deployment: Test, deploy, and monitor.\n\n@NutNick31 Your Roadmap looks good as a very minimal overview. Please do make a detailed proposal to take up the project as part of GSoC.\n\nPlease note that we would prefer not to use Twilio but WhatsApp's official APIs. Also, ensure that your approach is modular enough such that the WhatsApp part is switchable with any other IM in the future"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1977",
+      "time": "2024-03-21T03:28:14+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1977#issuecomment-2011153746",
+      "text": "> Hi @nihal467,\n> \n> I am Saksham Gupta, a final year student from Delhi, India. I interested in this project.\n> \n> I am proficient in both django and python and currently working in healthcare startup as well.\n> \n> \n\nHey @Sakshamgupta90 \n\nFeel free to join our calls for any questions and make a proposal for the GSoC Project"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1977",
+      "time": "2024-03-21T03:26:25+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1977#issuecomment-2011151916",
+      "text": "@sravyakaranam \n\nLooking forward to your contributions. Feel free to ask if you have any questions, we've tried to detail out the project well in this issue, happy to make any further clarifications\n\nDo Join our Slack Channel for any discussions and to work closely with the core team"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-20T15:58:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2009917609",
+      "text": "@itxsoumya Your suggested solution seems inline with the required Implementation detail. Assigned the Issue to you. Please acknowledge here.\r\n\r\ncc: @nihal467  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-20T15:54:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2009914149",
+      "text": "Implementation Details:\r\n\r\nWhat is required is a Scan and Upload Document Feature. We need to allow users to Scan multiple Images of a Document; Build a PDF out of it & Upload it as a single file.\r\n\r\nAny packages that are required to enable this feature should be lazy loaded only when the Scan Document Feature is used.\r\n\r\nRef:\r\n\r\nRecommended Package:\r\nhttps://www.npmjs.com/package/jspdf\r\n\r\nFor using Rendering the Images in the PDF: \r\nhttps://stackoverflow.com/questions/19065562/add-image-in-pdf-using-jspdf\r\n\r\n\r\nNB: Feel free to suggest alternative implementations in this discussion thread if you have a better approach"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T15:46:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2009892168",
+      "text": "@vishisht-dubey @Thanush19\r\n\r\nEither of you wanna take this up?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T15:45:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2009891121",
+      "text": "@nihal467 \r\n\r\n1. Regarding showing decimal data, we can round to the precision, only if precision data exists. \r\nFor eg: \r\n- 150.00 will be shown as 150. \r\n- 130.52 will be shown as 130.52. \r\n- 130.524 will be shown as 130.52\r\n- 130.5 will be shown as 130.50\r\n\r\n2. For Cypress Tests, we can add an additional `span` with `className=\"sr-only\"`\r\nRef: https://tailwindcss.com/docs/screen-readers#screen-reader-only-elements"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-20T15:37:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2009870231",
+      "text": "@Spiral-Memory @nihal467 @rithviknishad \r\n\r\nFollowing is the expected Behaviour:\r\n\r\nWarning as span :\r\n\r\n- Shown when Permission is not granted\r\n- Hidden when Permission is already granted\r\n\r\nWarning as notification:\r\n\r\n- Shown when Permission is not granted & User clicks on `Record` button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-20T15:34:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-2009861392",
+      "text": "> We could do something like the Live Feed page. https://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/live-monitoring?location=09ab6e88-9132-434a-b8ab-b342b10e7bef&page=1&limit=4\r\n> \r\n> <img alt=\"image\" width=\"397\" src=\"https://private-user-images.githubusercontent.com/25143503/311494280-695cf8bd-ac32-40d7-a231-7de58bcab44b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA5NDg0MjksIm5iZiI6MTcxMDk0ODEyOSwicGF0aCI6Ii8yNTE0MzUwMy8zMTE0OTQyODAtNjk1Y2Y4YmQtYWMzMi00MGQ3LWEyMzEtN2RlNThiY2FiNDRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIwVDE1MjIwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDliNWEwM2U3NmYxYTU5NGZmNDk4ZGNhYzM3ZmMxNTRiOGVkYmQ3NTc4OWEwMGIxZmM5YWNjZDM3OWVlMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vh-g30iMN29mIJ1IrZzofntYOjbFLRowsGrFrUFz0IY\">\r\n\r\nThis is the most ideal. Creating Presets as a Component that Switches between the current Layout (In Desktop) And as in the quoted design (In Mobile/Smaller Screens) works.\r\n\r\nAlso ensure that changes are only to the Presets Component. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-20T15:28:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2009847646",
+      "text": "@kshitijv256 Can you update the PR based on the Image Reference in the Issue. Padding for the Picture, and the Alignment of the Buttons. Also, post Screenshots for Mobile, Tab, HD & Full HD Screens. Let's wrap this ASAP."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T05:52:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2008700507",
+      "text": "@vishisht-dubey @Thanush19 \n\nBlocked Discussion Issues are not assignable until more depth is added to it. The labels will be updated at that point"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T10:12:06+00:00",
+      "title": "coronasafe/care#1985",
+      "link": "https://github.com/coronasafe/care/pull/1985#pullrequestreview-1945737210",
+      "text": "Add nurse logins for cypress testing"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7436",
+      "time": "2024-03-19T05:52:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7436",
+      "text": "Merge staging",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1989",
+      "time": "2024-03-19T05:51:56+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1989",
+      "text": "Merge staging",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1983",
+      "time": "2024-03-18T16:56:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1983",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "mohanrajnambe",
+        "rithviknishad",
+        "itxsoumya",
+        "hrit2773",
+        "Ashesh3",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1964",
+      "time": "2024-03-18T09:28:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1964#issuecomment-2003321865",
+      "text": "@vigneshhari It's simply an optimisation for Bulk Import. Currently the FE spams the BE when Bulk Imports happen"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1976",
+      "time": "2024-03-15T12:03:50+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1976",
+      "text": "Staging release for v24.12.0 | bug-fix 2",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7410",
+      "time": "2024-03-15T11:31:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7410",
+      "text": "Modify the Error in Consultation form to be self explanatory "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1971",
+      "time": "2024-03-13T08:22:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1971",
+      "text": "Staging release v24.12.0-beta",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7406",
+      "time": "2024-03-13T08:22:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7406",
+      "text": "Staging release v24.12.0-beta",
+      "collaborated_with": [
+        "mohanrajnambe",
+        "Ashesh3",
+        "Dareenfadel",
+        "hrit2773",
+        "itxsoumya",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T08:19:00+00:00",
+      "title": "coronasafe/care#1968",
+      "link": "https://github.com/coronasafe/care/pull/1968#pullrequestreview-1933416216",
+      "text": "Add builds for staging branches"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T08:17:51+00:00",
+      "title": "coronasafe/care_fe#7405",
+      "link": "https://github.com/coronasafe/care_fe/pull/7405#pullrequestreview-1933413905",
+      "text": "Add builds for staging branches"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7397",
@@ -6894,6 +7151,15 @@
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6670",
+      "title": "Add Medispeak for Preview on Care",
+      "stale_for": 107,
+      "labels": [
+        "In Progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
